@@ -1,6 +1,7 @@
 # airports_in_japan
 This is an airports list in Japan and their information.
-付加している情報
+
+Information in the list
 
 ・IATA Code（3letter）e.g. : HND
 
@@ -13,7 +14,8 @@ This is an airports list in Japan and their information.
 ・Website Address
 
 日本の空港のリストとその空港に付随する情報です。
-付加している情報
+
+付与している情報
 
 ・IATAコード（3レター）例：HND
 
