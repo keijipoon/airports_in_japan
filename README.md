@@ -27,7 +27,7 @@ Information in the list
 
 ・Latitude
 
-・Website Address
+・Official Website Address
 
 日本の空港のリストとその空港に付随する情報です。
 
@@ -55,4 +55,4 @@ Information in the list
 
 ・経度
 
-・WebサイトURL
+・公式WebサイトURL
